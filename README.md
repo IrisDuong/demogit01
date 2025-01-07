@@ -1,3 +1,3 @@
-
-first readme
-sua file readme on local
+=> first readme
+=> sua file readme on local
+=> lan thu 2 sua file readme nay tren máy local
