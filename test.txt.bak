@@ -1,1 +1,6 @@
 test git
+<<<<<<< HEAD
+manh nk2 them command vao file test
+=======
+hoidanit sua file test
+>>>>>>> 87631070cc435d3abd3e66cd6696fe3fa0a5bc96
